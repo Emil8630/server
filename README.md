@@ -1,1 +1,1 @@
-# server
+# Ignore this repository.
